@@ -1,0 +1,12 @@
+/* List element styles */
+li{
+    list-style: none;
+}
+
+li a{
+    color: rgb(199, 55, 55);
+}
+
+li a:hover{
+    color: rgb(218, 131, 218);
+}
